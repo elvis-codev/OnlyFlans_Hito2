@@ -19,4 +19,7 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', indice, name='indice'),
+    path('acerca/', acerca, name='acerca'),
+    path('bienvenido/', bienvenido, name='bienvenido'),
 ]
