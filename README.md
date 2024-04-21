@@ -7,6 +7,13 @@
 ------
 OnlyFlans es un proyecto de sitio web desarrollado en Django para una PYME dedicada a la venta de pasteles y postres, con un enfoque especial en el flan. El objetivo principal del sitio es presentar los productos de la empresa al público en general, así como también ofrecer productos especiales exclusivos para usuarios registrados.
 
+## Screenshots de las Vistas
+<div>
+    <img src="https://github.com/elvis-codev/OnlyFlans_Hito2/blob/main/Screenshots/captura_inicio.png" width="200" />
+    <img src="https://github.com/elvis-codev/OnlyFlans_Hito2/blob/main/Screenshots/captura_acerca.png" width="200" />
+    <img src="https://github.com/elvis-codev/OnlyFlans_Hito2/blob/main/Screenshots/captura_bienvenido.png" width="200" />
+</div>
+
 ## Características Principales
 
 - Presentación de productos de pastelería y postres.
